@@ -51,7 +51,7 @@ import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 import mmLogo from "./company/mmLogo.png"
 import mujtaba from './personal/mujtaba.png';
-import nishatLogo from "./company/nishatLogo.jpeg";
+import nishatLogo from "./company/nishatlogo.jpeg";
 import pizza from "./company/pizza.png";
 import master from "./company/master.webp";
 import events from "./company/events.png";
